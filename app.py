@@ -11,7 +11,7 @@ st.title("Conversión de Texto a Audio")
 image = Image.open('text_to_audio.png')
 st.image(image, width=350)
 with st.sidebar:
-    st.subheader("Esrcibe y/o selecciona texto para ser escuchado.")
+    st.subheader("naonao")
 
 
 try:
